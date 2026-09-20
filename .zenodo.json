@@ -1,0 +1,20 @@
+{
+  "title": "Wattson: IoT Power Side-Channel Intrusion Detection",
+  "description": "Analysis and training code for a low-cost power side-channel intrusion detection system for IoT devices (Raspberry Pi 3B, ACS712/MCP3008 sensor). Detects DoS, port-scan, and SSH brute-force attacks from AC power draw. Results are compared against Lightbody et al.'s prior work, which relied on a laboratory-grade power analyzer.",
+  "creators": [
+    {
+      "name": "Koçak, Nuri Furkan",
+      "orcid": "0000-0003-3838-8445",
+      "affiliation": "Kirikkale University"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": [
+    "IoT security",
+    "intrusion detection",
+    "power side-channel",
+    "Raspberry Pi",
+    "machine learning"
+  ]
+}

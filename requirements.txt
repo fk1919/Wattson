@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+torch
+matplotlib
+shap
+onnx
+onnxruntime
+onnxmltools
+skl2onnx
+spidev; platform_machine == "armv7l" or platform_machine == "aarch64"

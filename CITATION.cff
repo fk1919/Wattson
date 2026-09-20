@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and/or this repository as below."
+title: "Wattson: IoT Power Side-Channel Intrusion Detection"
+authors:
+  - family-names: "Koçak"
+    given-names: "Nuri Furkan"
+    orcid: "https://orcid.org/0000-0003-3838-8445"
+type: software
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22864415"
+    description: "Archived snapshot of this code (v1.0.1) on Zenodo"
+# TODO: makale kabul edilince "preferred-citation" bloğu eklenecek
+# (journal, volume, doi, year) — bkz. Data availability / Citation
+# bölümündeki [TODO] işaretleri.
